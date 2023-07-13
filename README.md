@@ -12,7 +12,7 @@
   
 - 📫 You can reach me at **kondamuricharishma@gmail.com**
   
-- 👨‍💻 Possess an experience over 5 years working in a retail industry
+- 👨‍💻 Possess an experience of over 5 years working in a retail industry
 
 - 💪🏽 Actively seeking an engaging role that allows me to apply my expertise in data analytics and leverage my business knowledge acquired through my education to make valuable contributions towards the organization's achievements
 
