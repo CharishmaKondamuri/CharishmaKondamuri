@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm Charishma Kondamuri</h1>
-<h3 align="center">A passionate Data Analytics student from Canada</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charishmakondamuri&label=Profile%20views&color=0e75b6&style=flat" alt="charishmakondamuri" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning Algorithms, Data Visualization Tools**
+-🔭 Passionate data analytics student with a drive for uncovering meaningful insights and optimizing processes.
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/charishma-kondamuri-558a7a82/](https://www.linkedin.com/in/charishma-kondamuri-558a7a82/)
+-⚡Leveraging my expertise in statistical analysis, machine learning, and predictive modeling, I strive to transform complex data into actionable intelligence.
 
-- 📫 How to reach me **kondamuricharishma@gmail.com**
+- 🌱 I’m currently learning **Machine Learning Algorithms and Data Visualization Tools**
 
-- ⚡ Fun fact **I believe that data has stories to tell. My job as a data analyst is to uncover those narratives and help businesses make data-driven decisions.**
+- 👨‍💻 With a strong foundation in business acumen and a keen eye for detail, I am committed to contributing to the success of organizations through data-driven decision-making.
+  
+- 📫 You can reach me at **kondamuricharishma@gmail.com**
+
+- 💪🏽 Actively seeking an engaging role that allows me to apply my expertise in data analytics and leverage my business knowledge acquired through my education to make valuable contributions towards the organization's achievements.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
