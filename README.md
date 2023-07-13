@@ -9,8 +9,6 @@
 - ⚡Leveraging my expertise in statistical analysis, machine learning, and predictive modeling, I strive to transform complex data into actionable intelligence.
 
 - 🌱 I’m currently learning **Machine Learning Algorithms and Data Visualization Tools**
-
-- 👨‍💻 With a strong foundation in business acumen and a keen eye for detail, I am committed to contributing to the success of organizations through data-driven decision-making.
   
 - 📫 You can reach me at **kondamuricharishma@gmail.com**
 
