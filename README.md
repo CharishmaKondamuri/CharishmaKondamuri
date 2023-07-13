@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charishmakondamuri&label=Profile%20views&color=0e75b6&style=flat" alt="charishmakondamuri" /> </p>
 
--🔭 Passionate data analytics student with a drive for uncovering meaningful insights and optimizing processes.
+- 🔭 Passionate data analytics student with a drive for uncovering meaningful insights and optimizing processes.
 
--⚡Leveraging my expertise in statistical analysis, machine learning, and predictive modeling, I strive to transform complex data into actionable intelligence.
+- ⚡Leveraging my expertise in statistical analysis, machine learning, and predictive modeling, I strive to transform complex data into actionable intelligence.
 
 - 🌱 I’m currently learning **Machine Learning Algorithms and Data Visualization Tools**
 
