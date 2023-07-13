@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charishma Kondamuri</h1>
-<h3 align="center">A passionate Data Analyst student from Canada</h3>
+<h3 align="center">A passionate Data Analytics student from Canada</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
