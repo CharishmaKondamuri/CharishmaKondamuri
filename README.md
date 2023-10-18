@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charishmakondamuri&label=Profile%20views&color=0e75b6&style=flat" alt="charishmakondamuri" /> </p>
 
-- 🔭 Passionate data analytics student with a drive for uncovering meaningful insights and optimizing processes
+- 🔭 Passionate data analyst with a drive for uncovering meaningful insights and optimizing processes
 
 - ⚡Leveraging my expertise in statistical analysis, machine learning, and predictive modeling, I strive to transform complex data into actionable intelligence
 
 - 🌱 I’m currently learning **Machine Learning Algorithms and Data Visualization Tools**
   
-- 📫 You can reach me at **kondamuricharishma@gmail.com**
+- 📫 You can reach me at **kondamuricharishma94@gmail.com**
   
 - 👨‍💻 Possess an experience of over 5 years working in a retail industry
 
