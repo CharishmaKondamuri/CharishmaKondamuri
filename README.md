@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning Algorithms and Data Visualization Tools**
   
-- 📫 You can reach me at **kondamuricharishma94@gmail.com**
+- 📫 You can reach me at **charishmakondamuri94@gmail.com**
   
 - 👨‍💻 Possess an experience of over 5 years working in a retail industry
 
