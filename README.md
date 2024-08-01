@@ -8,7 +8,7 @@
 
 - ⚡Leveraging my expertise in statistical analysis, machine learning, and predictive modeling, I strive to transform complex data into actionable intelligence
 
-- 🌱 I’m currently learning **Machine Learning Algorithms and Data Visualization Tools**
+- 🌱 I’m currently learning **Machine Learning Algorithms and Artificial Intelligence Tools**
   
 - 📫 You can reach me at **charishmakondamuri94@gmail.com**
   
